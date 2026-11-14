@@ -3,7 +3,7 @@
   "name": "real-estate-matching-filament",
   "display_name": "Real Estate Matching Filament",
   "description": "Filament resource for team-scoped matching profiles and property recommendations.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\MatchingFilament\\MatchingFilamentServiceProvider",
   "requires": {
